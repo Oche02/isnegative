@@ -53,4 +53,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/student/piscine-go/printalphabet/main.go" added="2025-10-13T06:22:21.508918Z" modified="2025-10-13T06:22:21.508925Z" visited="2025-10-13T06:22:21.508919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-go"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-13T06:22:21.508921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

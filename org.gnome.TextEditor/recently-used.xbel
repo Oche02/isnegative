@@ -3,11 +3,11 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/student/piscine-go/isnegative.go" added="2025-10-13T04:55:06.614790Z" modified="2025-10-13T04:55:06.614796Z" visited="2025-10-13T05:55:04.480947+01">
+  <bookmark href="file:///home/student/piscine-go/printalphabet/main.go" added="2025-10-13T06:22:24.960705Z" modified="2025-10-13T06:22:25.135286Z" visited="2025-10-13T07:22:22.433163+01">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-13T04:55:06.614793Z" count="1"/>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2025-10-13T06:22:25.135283Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
