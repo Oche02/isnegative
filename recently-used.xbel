@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/student" added="2025-10-13T02:36:26.241153Z" modified="2025-10-13T03:16:31.329342Z" visited="2025-10-13T02:36:26.241154Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-10-13T03:16:31.329339Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/piscine-go/printreversealphabet/main.go" added="2025-10-13T02:57:37.474940Z" modified="2025-10-13T02:57:37.474948Z" visited="2025-10-13T02:57:37.474941Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-go"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code %F&apos;" modified="2025-10-13T02:57:37.474945Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/piscine-go" added="2025-10-13T04:50:20.855259Z" modified="2025-10-13T04:50:20.855265Z" visited="2025-10-13T04:50:20.855260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-10-13T04:50:20.855262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/piscine-go/isnegative/isnegative" added="2025-10-13T04:52:43.191799Z" modified="2025-10-13T04:52:43.191806Z" visited="2025-10-13T04:52:43.191801Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2025-10-13T04:52:43.191803Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/student/piscine-go/isnegative.go" added="2025-10-13T04:55:03.678585Z" modified="2025-10-13T04:55:12.877440Z" visited="2025-10-13T04:55:03.678587Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/share/code/code %F&apos;" modified="2025-10-13T04:55:12.877432Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
